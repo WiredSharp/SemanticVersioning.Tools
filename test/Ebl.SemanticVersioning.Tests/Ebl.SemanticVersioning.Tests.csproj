@@ -7,10 +7,6 @@
     <PackageReference Include="NUnit3TestAdapter" Version="3.13.0" />
   </ItemGroup>
 
-  <ItemGroup>
-    <ProjectReference Include="..\..\src\Ebl.SemanticVersioning.Tools.Core\Ebl.SemanticVersioning.Tools.Core.csproj" />
-  </ItemGroup>
-
   <PropertyGroup>
     <TargetFramework>netcoreapp2.2</TargetFramework>
     <RootNamespace>SemanticVersioning.Tools.Tests</RootNamespace>
